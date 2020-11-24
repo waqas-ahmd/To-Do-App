@@ -1,0 +1,12 @@
+{
+  "name": "ToDoApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/waqas-ahmd/To-Do-App.git",
+  "author": "waqas-ahmd <65waqas@gmail.com>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces":[
+    "packages/*"
+  ]
+}
